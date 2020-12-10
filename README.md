@@ -11,3 +11,8 @@ transmis quelques propositions d’architecture dont une qui nous semblait tout 
 concernant notre besoin. Voici la proposition validée :
 
 ![alt text](https://github.com/mohammadbnei/terraform-esgi/blob/master/terraform-archi.jpg?raw=true)
+
+Je souhaite avoir cette infrastructure dans notre environnement Cloud avec un système de
+haute disponibilité sur nos données ainsi qu’une couche de sécurité qui nous permette d’être
+rassurée vis-à-vis des attaques, notamment liées à la destruction ou la copie de nos
+données.
