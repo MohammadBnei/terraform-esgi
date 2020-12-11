@@ -1,0 +1,8 @@
+version: "3.4"
+
+services:
+  terraform:
+    image: zenika/terraform-azure-cli
+    volumes: 
+      - ./:/workspace
+    stdin_open: true
